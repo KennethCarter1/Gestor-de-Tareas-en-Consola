@@ -1,0 +1,7 @@
+false;desayunar
+false;almorzar
+false;cenar
+false;correr
+false;saltar
+false;nadar
+false;bailar
